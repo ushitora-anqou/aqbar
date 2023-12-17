@@ -1,0 +1,6 @@
+(executable
+ (public_name aqbar)
+ (name main)
+ (libraries aqbar cmdliner)
+ ; (flags :standard -cclib -lpcsclite)
+ )
